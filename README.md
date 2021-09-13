@@ -1,5 +1,5 @@
 # How to add attractive Badges to your Repository 
-# underprogress
+
 <p style="font-size: 20px;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome, here you will be learning how to add some special badges to your repository.</p>
 GitHub Badges are incredibly useful, they can boost the readability of a Repository by providing users with a fast way to capture the Repository metrics. Badges also make your Repository look attractive and cool all you need to do is import Markdown code from a source to your README.md file.
 
@@ -8,7 +8,7 @@ GitHub Badges are incredibly useful, they can boost the readability of a Reposit
 # 1. Contributors Badge
 
 <!--If you view this code ps: Ignore the unethical ways used for formatting-->
-<div style="width: calc(30% - .5em); border: 2px solid black; padding: 5px;">
+<div style="width: calc(30% - .5em); border: 2px solid white; padding: 5px;">
 <img src="https://contrib.rocks/image?repo=luvksahu/DSA-Question-solving"></div>
 
 #### Contributors badge displays images of all the people who have contributed to your Repository. It's really a good habit to credit the contributors who have invested their time in providing an update to your repository. All you need to do is copy the code below in your README file
