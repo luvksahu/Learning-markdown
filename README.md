@@ -8,8 +8,8 @@ GitHub Badges are incredibly useful, they can boost the readability of a Reposit
 # 1. Contributors Badge
 
 <!--If you view this code ps: Ignore the unethical ways used for formatting-->
-<div style="width: calc(30% - .5em); border: 2px solid white; padding: 5px;">
-<img src="https://contrib.rocks/image?repo=luvksahu/DSA-Question-solving"></div>
+<div style="width: calc(30% - .5em); border: 2px solid black; padding: 5px;">
+<img src="https://contrib.rocks/image?repo=luvksahu/Github-badges"></div>
 
 #### Contributors badge displays images of all the people who have contributed to your Repository. It's really a good habit to credit the contributors who have invested their time in providing an update to your repository. All you need to do is copy the code below in your README file
 ``` ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name) ```
