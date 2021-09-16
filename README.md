@@ -6,13 +6,13 @@
 |Sr. no.|Topic|Link|
 |---------|-------|------|
 |1.|**Basic Markdown Cheatsheet**|Comming soon|
-|2.|**GitHub Badges to make your repo Attractive.**|[Click Here]()|
+|2.|**GitHub Badges to make your repo Attractive.**|[Click Here](https://github.com/luvksahu/Learning-markdown/blob/f4aaa739909bd02b93c958814ba2489faaf0af8b/GitHub-Badges.md)|
 |3.|**Badges for GitHub Profile**|Comming soon|
 ### Contributers : 
 <div style="width: calc(30% - .5em); border: 2px solid black; padding: 5px;">
 <img src="https://contrib.rocks/image?repo=luvksahu/learning-markdown"></div>
 
-#### If you have feel like adding more items to the list then then make a PR I will be happy to merge it.
+#### If you have feel like adding more items to the list then make a PR I will be happy to merge it.
 #### Let us connect :
 
 <a href="mailto:lksahuji365@gmail.com"><img align="center" width="35px" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/gmail.svg" style="max-width: 100%;"></a>
