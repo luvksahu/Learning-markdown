@@ -12,7 +12,7 @@
 <div style="width: calc(30% - .5em); border: 2px solid black; padding: 5px;">
 <img src="https://contrib.rocks/image?repo=luvksahu/learning-markdown"></div>
 
-#### If you have feel like adding more Content(items) to the list then make a PR I will be happy to merge it.
+#### If you feel like adding more Content(items) to the list then make a PR I will be happy to merge it.
 #### If you like the content then star mark this Repository.
 #### Let us connect :
 
