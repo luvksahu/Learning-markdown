@@ -4,7 +4,7 @@
 ### You can find links to different files below :
 
 |Sr. no.|Topic|Link|
-|---------|-------|------|
+|:---:|-------|------|
 |1.|**Basic Markdown Cheatsheet**|[Click Here](https://github.com/luvksahu/Learning-markdown/blob/0464c9b60475618a25c5d6924e4dd928f974b28f/Mark-Down_cheatsheet.md)|
 |2.|**GitHub Badges to make your repo Attractive.**|[Click Here](https://github.com/luvksahu/Learning-markdown/blob/f4aaa739909bd02b93c958814ba2489faaf0af8b/GitHub-Badges.md)|
 |3.|**Badges for GitHub Profile**|Comming soon|
