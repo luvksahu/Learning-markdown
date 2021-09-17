@@ -18,7 +18,9 @@ Do not forget to replace **Your_GitHub_Username** and **Your_GitHub_Repository_N
 
 # 2. Repository View Counter
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/luvksahu/Learning-markdown)
+<!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/luvksahu/Learning-markdown) -->
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=luvksahu)
 
 The Repository View Counter badge displays the number of times your Repository has been viewed. To generate this badge, add the following Markdown code:
 
