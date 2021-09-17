@@ -1,6 +1,8 @@
 
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome, here you will learn to create Markdown files like a pro.</h1>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=luvksahu)
+
 ### You can find links to different files below :
 
 |Sr. no.|Topic|Link|
