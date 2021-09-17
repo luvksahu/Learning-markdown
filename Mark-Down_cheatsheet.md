@@ -2,26 +2,45 @@
 
 ### This is a cheat sheet for basic Mark Down 
 
-### If you liked thie content then star mark this repository.
+### If you liked this content then star this repository.
 
 # Creating Headings:
  ```
- Syntax: #    Heading 1 
- Syntax: ##   Heading 2 
- Syntax: ###  Heading 3 
- Syntax: #### Heading 4
+ Syntax: #      Heading 1 
+ Syntax: ##     Heading 2 
+ Syntax: ###    Heading 3 
+ Syntax: ####   Heading 4
+ Syntax: #####  Heading 5
+ Syntax: ###### Heading 6
+
+
 ```
  
 ## Output : 
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
 
 
 ***
-# **bold**, *italic* and ~~Strikethrough~~
+
+# For horizontal line:
+
+``` 
+Syntax: **** or ______ or -----
+```
+
+## Output :
+****
+
+
+
+# Emphasis : - **bold**, *italic* and ~~Strikethrough~~
 
 ```
 Syntax: **This is a bold text**
@@ -29,7 +48,10 @@ Syntax: **This is a bold text**
 Syntax: *This is a italic text*
 
 Syntax: ~~This is a striked text~~
+
+Syntax:  ***This is bold and italic text***
 ```
+
 ## Output : 
 
  **This is a bold text**
@@ -37,6 +59,8 @@ Syntax: ~~This is a striked text~~
  *This is a italic text*
 
  ~~This is a striked text~~
+
+ ***This is bold and italic text***
 
 # Table :
 ```
@@ -216,6 +240,24 @@ Syntax :
   "age": 25
 }
 ```
+
+# HTML
+> Many Markdown applications allow you to use HTML tags in Markdown-formatted text. This is helpful if you prefer certain HTML tags to Markdown syntax. For example, some people find it easier to use HTML tags for images. Using HTML is also helpful when you need to change the attributes of an element, like specifying the color of text or changing the width of an image.
+
+To use HTML, place the tags in the text of your Markdown-formatted file.
+
+This ```**word**``` is bold. This ```<em>word</em>``` is italic.
+The rendered output looks like this:
+
+This **word** is bold. This <em>word</em> is italic.
+
+# HTML Best Practices
+> For security reasons, not all Markdown applications support HTML in Markdown documents. You can freely use those tags in Github though.
+
+> Use blank lines to separate block-level HTML elements like ```<div>```, ```<table>```, ```<pre>```, and ```<p>``` from the surrounding content. Try not to indent the tags with tabs or spaces — that can interfere with the formatting.
+
+You can’t use Markdown syntax inside block-level HTML tags. For example, ```<p>italic and **bold**</p>``` won’t work.
+
 ### If you think this list can contain some more items then add the items to this file and make a PR I will be happy to merge it.
 
 #### Let us connect :
